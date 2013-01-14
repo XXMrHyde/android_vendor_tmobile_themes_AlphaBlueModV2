@@ -26,4 +26,16 @@
     <color name="com_android_contacts_people_app_theme_color">#20000000</color>
     <color name="com_android_contacts_contact_count_text_color">#ff0099ff</color>
     <color name="com_android_contacts_action_bar_button_text_color">#ff0099ff</color>
+    <!-- AlphaBlueMod additions -->
+    <color name="alphabluemod_lightgreyb">#ffefefef</color>
+    <color name="alphabluemod_lightgrey">#ffcfcfcf</color>
+    <color name="alphabluemod_grey">#ffafafaf</color>
+    <color name="alphabluemod_darkgrey">#ff707070</color>
+    <color name="alphabluemod_translucentgrey">#66afafaf</color>
+    <color name="alphabluemod_translucentlgrey">#66cfcfcf</color>
+    <color name="alphabluemod_holored">#ffff4444</color>
+    <color name="alphabluemod_translucentblack">#ff171B1E</color>
+    <color name="alphabluemod_bg_holo_dark">#ff272d33</color>
+    <color name="alphabluemod_devider">#99505050</color>
+    <color name="alphabluemod_translucentholoblue">#e633b5e5</color>
 </resources>

@@ -66,7 +66,7 @@
 	<item name="drawable/stat_notify_calendar">@drawable/com_android_calendar_stat_notify_calendar</item>
 	<item name="drawable/stat_notify_calendar_multiple">@drawable/com_android_calendar_stat_notify_calendar_multiple</item>
         <!-- drawables - png (mipmap) -->
-	<item name="mipmap/ic_launcher_calendar">@mipmap/ic_launcher_calendar</item>
+	<item name="mipmap/ic_launcher_calendar">@mipmap/com_android_calendar_ic_launcher_calendar</item>
         <!-- styles -->
     <item name="style/MinusButton">@style/Theme.MinusButton</item>
     <item name="style/MonthView_DayLabel">@style/MonthView_DayLabel</item>

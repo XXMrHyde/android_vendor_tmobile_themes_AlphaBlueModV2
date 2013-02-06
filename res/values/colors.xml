@@ -38,4 +38,12 @@
     <color name="alphabluemod_bg_holo_dark">#ff272d33</color>
     <color name="alphabluemod_devider">#99505050</color>
     <color name="alphabluemod_translucentholoblue">#e633b5e5</color>
+    <color name="subject_text_color_unread">#ffaaaaaa</color>
+    <color name="senders_text_color_unread">#ffcccccc</color>
+    <color name="account_setup_divider_color">#ff333333</color>
+    <color name="message_list_item_background_unread">#404040</color>
+    <color name="text_secondary_color">#ff999999</color>
+    <color name="text_ternary_color">#ff555555</color>
+    <color name="text_secondary_color_inverse">#ff111111</color>
+    <color name="mailbox_drop_unavailable_fg_color">#ff666666</color>
 </resources>

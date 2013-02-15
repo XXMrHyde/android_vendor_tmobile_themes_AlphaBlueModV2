@@ -27,17 +27,11 @@
     <color name="com_android_contacts_contact_count_text_color">#ff0099ff</color>
     <color name="com_android_contacts_action_bar_button_text_color">#ff0099ff</color>
     <!-- AlphaBlueMod additions -->
-    <color name="alphabluemod_lightgreyb">#ffefefef</color>
-    <color name="alphabluemod_lightgrey">#ffcfcfcf</color>
-    <color name="alphabluemod_grey">#ffafafaf</color>
-    <color name="alphabluemod_darkgrey">#ff707070</color>
-    <color name="alphabluemod_translucentgrey">#66afafaf</color>
-    <color name="alphabluemod_translucentlgrey">#66cfcfcf</color>
+
+    <!-- Global -->
     <color name="alphabluemod_holored">#ffff4444</color>
-    <color name="alphabluemod_translucentblack">#ff171B1E</color>
     <color name="alphabluemod_bg_holo_dark">#ff272d33</color>
-    <color name="alphabluemod_devider">#99505050</color>
-    <color name="alphabluemod_translucentholoblue">#e633b5e5</color>
+    <!-- Email -->
     <color name="subject_text_color_unread">#ffaaaaaa</color>
     <color name="senders_text_color_unread">#ffcccccc</color>
     <color name="account_setup_divider_color">#ff333333</color>
@@ -46,4 +40,24 @@
     <color name="text_ternary_color">#ff555555</color>
     <color name="text_secondary_color_inverse">#ff111111</color>
     <color name="mailbox_drop_unavailable_fg_color">#ff666666</color>
+    <!-- Calendar -->
+    <color name="background_color">#ff050505</color>    
+    <color name="event_background">#ff626d80</color>
+    <color name="calendar_date_range_color">#80ffffff</color>
+    <color name="week_saturday">#80cccccc</color>
+    <color name="calendar_grid_line_highlight_color">#ff8f8f8f</color>
+    <color name="month_event_extra_other_color">#4c666666</color>
+    <color name="month_other_month_day_number">#ff6c6b68</color>
+    <color name="month_selected_week_bgcolor">#ff222222</color>
+    <color name="month_today_bgcolor">#3233b5e5</color>
+    <color name="month_bgcolor">#ff1a1a1a</color>
+    <color name="calendar_secondary_visible">#ffcdcdcd</color>
+    <color name="agenda_item_declined_color">#66cccccc</color>
+    <color name="agenda_item_where_declined_text_color">#66999999</color>
+    <color name="calendar_view_switch_menu_text_color_light">#ff777777</color>
+    <color name="event_info_headline_transparent_color">#B3FFFFFF</color>
+    <color name="event_info_label_background_color">#FFDDDDDD</color>
+    <color name="alert_past_event">#8f666666</color>
+    <color name="appwidget_row_in_progress">#6633b5e5</color>
+    <color name="appwidget_date">#ffEEEEEE</color>
 </resources>

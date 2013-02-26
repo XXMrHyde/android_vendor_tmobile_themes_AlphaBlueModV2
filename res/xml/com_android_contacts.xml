@@ -11,10 +11,10 @@
     <item name="drawable/ic_contact_picture_180_holo_dark">@drawable/com_android_contacts_ic_contact_picture_180_holo_light</item>
     <item name="drawable/ic_contact_picture_holo_dark">@drawable/ic_contact_picture</item>
 	<item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_ic_launcher_contacts</item>
-	<item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
-	<item name="mipmap/ic_launcher_shortcut_contact">@mipmap/com_android_contacts_ic_launcher_shortcut_contact</item>
-	<item name="mipmap/ic_launcher_shortcut_directdial">@mipmap/com_android_contacts_ic_launcher_shortcut_directdial</item>
-	<item name="mipmap/ic_launcher_shortcut_directmessage">@mipmap/com_android_contacts_ic_launcher_shortcut_directmessage</item>
+    <item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
+    <item name="mipmap/ic_launcher_shortcut_contact">@mipmap/com_android_contacts_ic_launcher_shortcut_contact</item>
+    <item name="mipmap/ic_launcher_shortcut_directdial">@mipmap/com_android_contacts_ic_launcher_shortcut_directdial</item>
+    <item name="mipmap/ic_launcher_shortcut_directmessage">@mipmap/com_android_contacts_ic_launcher_shortcut_directmessage</item>
     <item name="drawable/ic_text_holo_light">@drawable/com_android_contacts_ic_text_holo_light</item>
     <item name="drawable/list_background_holo">@drawable/com_android_contacts_list_background_holo</item>
     <item name="drawable/list_title_holo">@drawable/com_android_contacts_list_title_holo</item>
@@ -58,4 +58,5 @@
     <item name="style/Theme.PhotoSelector">@style/Theme.PhotoSelector</item>
     <item name="style/ContactsActionBarTheme">@style/ContactsActionBarTheme</item>
     <item name="style/PeopleTheme1">@style/PeopleTheme1</item>
+    <item name="style/Theme.Holo.Datepicker.Dialog">@style/Theme.Holo.Datepicker.Dialog</item>
 </resource-redirections>

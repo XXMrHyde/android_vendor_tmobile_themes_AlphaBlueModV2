@@ -82,6 +82,7 @@
     <item name="drawable/widget_conversation_unread_selector">@drawable/com_android_mms_widget_conversation_unread_selector</item>
     <item name="drawable/list_div_top_btm_mms_widget_holo">@drawable/com_android_mms_list_div_top_btm_mms_widget_holo</item>
     <item name="drawable/list_item_font_primary">@drawable/com_android_mms_list_item_font_primary</item>
+    <item name="drawable/list_item_font_secondary">@drawable/com_android_mms_list_item_font_secondary</item>
     <item name="color/primary_text_color">@color/primary_text_color</item>
     <item name="color/secondary_text_color">@color/secondary_text_color</item>
     <item name="color/text_hairline">@color/alphablue_grey</item>

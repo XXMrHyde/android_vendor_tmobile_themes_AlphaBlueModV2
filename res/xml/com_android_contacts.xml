@@ -41,6 +41,7 @@
 	<item name="color/people_contact_tile_status_color">@color/com_android_contacts_people_contact_tile_status_color</item>
     <item name="color/primary_text_color">@color/primary_text_color</item>
     <item name="color/secondary_text_color">@color/secondary_text_color</item>
+    <item name="color/editor_account_header_bg_color">@color/text_secondary_color_inverse</item>
     <item name="style/Theme.QuickContact">@style/Theme.QuickContact</item>
     <item name="style/ListViewStyle">@style/ListViewStyle</item>
     <item name="style/ContactsActionBarDropDownStyle">@style/ContactsActionBarDropDownStyle</item>

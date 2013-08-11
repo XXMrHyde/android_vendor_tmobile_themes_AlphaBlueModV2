@@ -13,7 +13,7 @@
     <color name="alphablue_holoblue">#ff33b5e5</color>
     <color name="holo_blue_light">#ff0099ff</color>
     <color name="com_android_contacts_quickcontact_list_divider">#ff0099ff</color>
-    <color name="com_android_contacts_background_primary">#ff000000</color>
+    <color name="com_android_contacts_background_primary">@drawable/com_android_contacts_background_dial_holo_dark</color>
     <color name="com_android_contacts_background_social_updates">#ff000000</color>
     <color name="com_android_contacts_section_header_text_color">#ff0099ff</color>
     <color name="com_android_contacts_detail_update_tab_text_color">#ff0099ff</color>

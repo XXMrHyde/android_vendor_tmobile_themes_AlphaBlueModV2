@@ -4,7 +4,7 @@
     <item name="drawable/account_spinner_icon">@drawable/com_android_contacts_account_spinner_icon</item>
     <item name="drawable/action_bar_item_background">@drawable/com_android_contacts_action_bar_item_background</item>
     <item name="drawable/aggregation_suggestions_bg_light_holo">@drawable/com_android_contacts_aggregation_suggestions_bg_light_holo</item>
-    <item name="drawable/background_dial_holo_dark">@drawable/com_android_contacts_background_dial_holo_dark</item>
+    <item name="drawable/background_dial_holo_dark">@drawable/background_holo_dark</item>
     <item name="drawable/dial_background_texture">@drawable/com_android_contacts_dial_background_texture</item>
     <item name="drawable/ic_contact_picture_180_holo_light">@drawable/com_android_contacts_ic_contact_picture_180_holo_light</item>
     <item name="drawable/ic_contact_picture_holo_light">@drawable/ic_contact_picture</item>

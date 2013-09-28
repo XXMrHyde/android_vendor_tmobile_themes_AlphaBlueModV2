@@ -331,5 +331,13 @@
         <item name="android:textColor">@android:color/white</item>
     </style>
 
+    <style name="Theme.CMAccount1" parent="@android:style/Theme.Holo" />
+
+    <style name="Widget.ActionBar1" parent="@android:style/Widget.Holo.ActionBar" />
+
+    <style name="RootLayout1">
+        <item name="android:background">@drawable/background_holo_dark</item>
+    </style>
+
     <style name="AlphaBlueMod" parent="@android:style/Theme" />
 </resources>

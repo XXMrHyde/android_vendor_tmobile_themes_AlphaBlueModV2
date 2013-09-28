@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <!-- drawables - xml -->
+    <item name="drawable/card">@drawable/com_cyanogenmod_account_card</item>
+    <!-- drawables - png -->
+	<item name="drawable/ab_bg">@drawable/com_cyanogenmod_account_ab_bg</item>
+    <!-- color -->
+	<item name="color/dark_gray">@color/light_gray</item>
+	<item name="color/light_gray">@color/dark_gray</item>
+    <!-- styles -->
+    <item name="style/Widget.ActionBar1">@style/Widget.ActionBar1</item>
+    <item name="style/Theme.CMAccount1">@style/Theme.CMAccount1</item>
+</resource-redirections>
